@@ -479,3 +479,6 @@ walley=łolej
 glue=glu
 modified=modifajd
 good=gud
+remote=rimołt
+object=obdżekt
+objects=obdżekts
