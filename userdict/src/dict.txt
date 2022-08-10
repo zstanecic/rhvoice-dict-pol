@@ -373,3 +373,4 @@ only=onli
 read=rid
 bases=bejsys
 receive=ris&iw
+(book=buk)*
