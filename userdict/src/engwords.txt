@@ -573,3 +573,4 @@ southeast=sałf&east
 southeast=sałf&ist
 eat=it
 (ja=dż)ws*
+could=kud
