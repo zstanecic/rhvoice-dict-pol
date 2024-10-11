@@ -600,4 +600,9 @@ roborock=roborok
 picture=pykczer
 pictures=pykczers
 beast=bist
-iPhone=ajfon
+(i=aj)(ph=f)(one=on)*
+(i=aj)(Ph=F)(one=on)*
+home=hołm
+include=inklud
+OVHcloud=OVH-klałd
+gmail=dżi-mejl
